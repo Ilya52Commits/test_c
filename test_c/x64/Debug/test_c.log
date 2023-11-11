@@ -1,0 +1,8 @@
+﻿  main.c
+F:\Ilya\Programming\test_c\test_c\main.c(6,2): warning C4013: setlocale: нет определения; предполагается "extern" с возвратом типа "int"
+F:\Ilya\Programming\test_c\test_c\main.c(17,2): warning C4013: gets: нет определения; предполагается "extern" с возвратом типа "int"
+F:\Ilya\Programming\test_c\test_c\main.c(43,29): warning C4311: приведение типов: усечение указателя из "char [1]" в "int"
+F:\Ilya\Programming\test_c\test_c\main.c(44,37): warning C4311: приведение типов: усечение указателя из "char [1]" в "int"
+F:\Ilya\Programming\test_c\test_c\main.c(19,26): error C2075: "number_1": для инициализации требуется список инициализаторов, заключенный в фигурные скобки.
+F:\Ilya\Programming\test_c\test_c\main.c(24,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+F:\Ilya\Programming\test_c\test_c\main.c(30,17): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
